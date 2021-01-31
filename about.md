@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a [GitHub Pages](https://pages.github.com/) website with a [Jekyll](https://jekyllrb.com/) theme, that Bryan is using as an opportunity to learn and practice modern web development and cloud infrastructure principles.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+If you would like to learn more about Bryan, you can visit his LinkedIn page [here](https://www.linkedin.com/in/bryanlawhorn)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Bryan doing some testing with links here: [home][home] / [home the other way](http://www.lawhorn.cloud/)
 
-
-[jekyll-organization]: https://github.com/jekyll
+[home]: http://www.lawhorn.cloud/
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

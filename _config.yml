@@ -16,7 +16,7 @@
 title: Lawhorn.Cloud
 email: Bryan@Lawhorn.Cloud
 description: >- # this means to ignore newlines until "baseurl:"
-Welcome to the active learning project, "Lawhorn.Cloud" by Bryan Lawhorn!  This is a work in progress, and eventually will become a "<a href="https://www.digitalocean.com/community/tutorials/what-is-high-availability">highly available</a>" website.  Please excuse the mess while it is under construction. :)  If you would like to learn more about me, you can visit my LinkedIn page <a href="https://www.linkedin.com/in/bryanlawhorn">here</a>.  Thank you for visiting!  -Bryan
+Welcome to the active learning project, Lawhorn.Cloud by Bryan Lawhorn!  This is a work in progress, and eventually will become a [highly available](https://www.digitalocean.com/community/tutorials/what-is-high-availability) website.  Please excuse the mess while it is under construction. :)  If you would like to learn more about me, you can visit my LinkedIn page [here](https://www.linkedin.com/in/bryanlawhorn).  Thank you for visiting!  -Bryan
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.lawhorn.cloud" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bryanlawhorn

@@ -18,7 +18,7 @@ email: Bryan@Lawhorn.Cloud
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the active learning project, Lawhorn.Cloud by Bryan Lawhorn!  This is a work in progress, and will eventually become a highly available website.  Please excuse the mess while it is under construction.  Thank you for visiting!  -Bryan
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.lawhorn.cloud" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.lawhorn.cloud" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bryanlawhorn
 github_username:  bryanlawhorn
 
